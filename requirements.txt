@@ -1,0 +1,6 @@
+numpy
+torch
+xarray
+tqdm
+argparse
+zarr
