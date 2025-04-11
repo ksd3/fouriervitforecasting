@@ -10,5 +10,3 @@ To reproduce results, do the following:
 6. To run unit tests, run ``test_project.py``.
 
 Read the report for some more analysis. You can also check out the analyses in the text files.
-
-You can also inspect ``silurian.ipynb`` and run each module yourself if you want to see my testing notebook.
